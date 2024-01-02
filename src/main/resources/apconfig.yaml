@@ -1,0 +1,14 @@
+http:
+  port: "8083"
+msg: "hello i am in maven project"
+app:
+  runtime: "4.3.0"
+username: "yash_012"
+password: "Bhanu123"
+cloudhub:
+  application:
+    name: "arithimathss-api"  
+environment: "Dev"
+region: "us-east-1"
+workers: "1"
+workerType: "MICRO"    
